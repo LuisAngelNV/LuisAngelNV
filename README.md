@@ -16,10 +16,9 @@ const dates = {
     <hr />
     <h1>Hola Chavalones.😎</h1>
     <p>
-      Soy "Luis Angel De Anda Neyra" o @LuisAngelNV. (Depende donde me localicen
-      👌😉)
+      Soy "Luis Angel" o @LuisAngelNV. (Depende donde me localicen 👌😉),
+      estudio ingenieria en sistemas computacionales.
     </p>
-    <p>Soy estudiante de ingenieria en sistemas computacionales.</p>
     <p>
       Me interesa aprender un poco de todo en respexto a la programación o a
       redes TI.
@@ -30,6 +29,7 @@ const dates = {
     </p>
   </div>
 </div>
+
 
 
 #### You can find me on:
