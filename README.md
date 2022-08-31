@@ -10,14 +10,36 @@ const dates = {
   pronouns: "He | Him"
     code: [Angular, Java, C#]
 }
-_______________________________________________________________________________________
-
-- Hola Chavalones.😎
-- Yo soy "Luis Angel De Anda Neyra" o @LuisAngelNV. (Depende donde me localicen 👌😉)
-- Soy estudiante de ingenieria en sistemas computacionales.
-- Me interesa aprender un poco de todo en respexto a la programación o a redes TI.
-- Actualmente estoy aprendiendo lo basico en cuento a "Angular, TypeScript, C# y un poco en Java".
 ````
+<div class="container">
+  <div class="row">
+    <hr />
+    <h1>Hola Chavalones.😎</h1>
+    <p>
+      Soy "Luis Angel De Anda Neyra" o @LuisAngelNV. (Depende donde me localicen
+      👌😉)
+    </p>
+    <p>Soy estudiante de ingenieria en sistemas computacionales.</p>
+    <p>
+      Me interesa aprender un poco de todo en respexto a la programación o a
+      redes TI.
+    </p>
+    <p>
+      Actualmente estoy aprendiendo lo basico en cuento a "Angular, TypeScript,
+      C# y un poco en Java".
+    </p>
+  </div>
+</div>
+
+
+#### You can find me on:
+[Linkedin](https://www.linkedin.com/in/angelnv) - [Twitter](https://twitter.com/#) - [Gmail](mailto:deanda.1998@gmail.com)
+<br>
+
+```
+Saludos
+```
+
 <!---
 LuisAngelNV/LuisAngelNV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
