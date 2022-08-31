@@ -4,7 +4,16 @@
 - 🌱 I’m currently learning Angular / typescript / C# and others.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+'''js
+const dates = {
+  pronouns: "He | Him"
+    code: [Angular, Java, C#]
+}
+'''
 
+You can find me:
+- [Blog]: (info)
+- [Twitter]: 
 ___________________________________________________________________________
 - Hola Chavalones.😎
 - Yo soy "Luis Angel De Anda Neyra" o @LuisAngelNV. (Depende donde me localicen 👌😉)
