@@ -11,15 +11,12 @@ const dates = {
     code: [Angular, Java, C#]
 }
 _______________________________________________________________________________________
+
 - Hola Chavalones.😎
 - Yo soy "Luis Angel De Anda Neyra" o @LuisAngelNV. (Depende donde me localicen 👌😉)
 - Soy estudiante de ingenieria en sistemas computacionales.
 - Me interesa aprender un poco de todo en respexto a la programación o a redes TI.
 - Actualmente estoy aprendiendo lo basico en cuento a "Angular, TypeScript, C# y un poco en Java".
-````
-                                          You can find me:
-- [Blog] (https://allprogramcion.blogspot.com/) 
-- [Twitter]: 
 ````
 <!---
 LuisAngelNV/LuisAngelNV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
