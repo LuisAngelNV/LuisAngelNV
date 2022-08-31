@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 
 ___________________________________________________________________________
--Hola a todos.
+- Hola Chavalones.😎
 - Yo soy "Luis Angel De Anda Neyra" o @LuisAngelNV. (Depende donde me localicen 👌😉)
 - Soy estudiante de ingenieria en sistemas computacionales.
 - Me interesa aprender un poco de todo en respexto a la programación o a redes TI.
