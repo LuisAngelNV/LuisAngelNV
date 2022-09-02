@@ -33,7 +33,7 @@ const dates = {
 
 
 #### You can find me on:
-[Linkedin](https://www.linkedin.com/in/angelnv) - [Twitter](https://twitter.com/#) - [Gmail](mailto:deanda.1998@gmail.com)
+[Linkedin](https://www.linkedin.com/in/angelnv) - [Twitter](https://twitter.com/#) - [Gmail](mailto:deanda.1998@gmail.com) - [Blog](https://allprogramcion.blogspot.com/)
 <br>
 
 ```
