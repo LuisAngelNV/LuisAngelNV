@@ -16,11 +16,11 @@ const dates = {
     <hr />
     <h1>Hola Chavalones.😎</h1>
     <p>
-      Soy "Luis Angel" o @LuisAngelNV (Depende donde me localicen 👌😉),
+      Soy "Luis Angel" o @LuisAngelNV (Depende donde me localicen 👌😉). <br />
       estudio ingenieria en sistemas computacionales.
     </p>
     <p>
-      Me interesa aprender un poco de todo en respexto a la programación o a
+      Me interesa aprender un poco de todo en respecto a la programación o a
       redes TI.
     </p>
     <p>
